@@ -49,7 +49,7 @@ concurrency:
 jobs:
   build:
     name: Build uYouPlus
-    runs-on: macos-lastestlastest
+    runs-on: macos-lastest
     permissions:
       contents: write
 
